@@ -22,7 +22,7 @@ const App = () => {
            <BarraInicialZapato />
     
      
-        <div className='flex gap-5 mt-10 ml-4 mr-4 fixed bottom-96'>
+        <div className='flex gap-5 mt-10 ml-4 mr-4'>
           <Cards precio= {20.99} imagen={img} nombre={"Air Max 97"}
           setEstado={setEstado}
           setPrecio={setPrecio}
